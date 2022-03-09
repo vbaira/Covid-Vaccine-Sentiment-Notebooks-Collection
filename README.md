@@ -1,5 +1,8 @@
 # Notebook Collection for Sentiment Classification on Covid Vaccine Tweets
 
+A collection of Colab Notebooks, showcasing the development of a Covid19 vaccine sentiment classifier(Pro-Vax,Anti-Vax,Neutral), using various machine learning algorithms and technologies. 
+
+
 
 | Notebook     |      Description      |   |
 |:----------|:-------------|:-------------:|
